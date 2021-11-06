@@ -1,2 +1,3 @@
-Очередное тестовое
-https://drive.google.com/file/d/1GjUr78-IwujTdWmPrEDkjX7si_4Q49ws/view
+Тестовое. В тз было: time tracker vue + meteor
+Я запилил без метеора (зачем-то)
+Потом прикрутил метеор: https://github.com/Viktor-Kurgashov/meteor-time-tracker
